@@ -48,3 +48,8 @@ Temporary Items
 *.zip
 *.pdf
 *.csv
+data/ijcai2016_koubei_test
+data/ijcai2016_koubei_train
+data/ijcai2016_merchant_info
+data/ijcai2016_taobao
+~$记录.docx
